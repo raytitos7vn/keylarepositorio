@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+}
+
+
+header {
+    width: 100%;
+    height: 280px;
+    background-color: #ff0b0b;
+
+    display: flex;
+    align-items: flex-start;
+}
+
+
+.caja {
+    width: 280px;
+    height: 280px;
+    border-radius: 0 25px 25px 0;
+}
+
+
+.divazul {
+    background-color: rgb(0, 4, 255);
+}
+
+
+.divamarillo {
+    background-color: rgb(255, 255, 0);
+    border-radius: 25px;
+}
+
+
+main {
+    width: 100%;
+    height: 350px;
+    background-color: #fff;
+}
+
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: #ffffff;
+}
